@@ -1,0 +1,4 @@
+cs_nation,cs_id,cs_amount
+인도,csin0001,1120000
+인도,csin0002,52000
+인도,csin0003,470000

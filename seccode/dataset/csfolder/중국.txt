@@ -1,0 +1,4 @@
+cs_nation,cs_id,cs_amount
+인도,csch0001,20000
+인도,csch0002,3000
+인도,csch0003,9000

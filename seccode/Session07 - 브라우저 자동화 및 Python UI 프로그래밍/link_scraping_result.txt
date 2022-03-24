@@ -1,0 +1,19 @@
+제목,링크
+1 Characteristics,#Characteristics
+1.1 Physical properties,#Physical_properties
+1.2 Optical properties,#Optical_properties
+1.3 Isotopes,#Isotopes
+2 Chemical compounds,#Chemical_compounds
+2.1 Chalcogen compounds,#Chalcogen_compounds
+2.2 Halogen compounds,#Halogen_compounds
+2.3 Selenides,#Selenides
+2.4 Other compounds,#Other_compounds
+2.5 Organoselenium compounds,#Organoselenium_compounds
+3 History,#History
+4 Occurrence,#Occurrence
+5 Production,#Production
+6 Applications,#Applications
+6.1 Fertilizers,#Fertilizers
+6.2 Manganese electrolysis,#Manganese_electrolysis
+6.3 Glass production,#Glass_production
+6.4 Alloys,#Alloys

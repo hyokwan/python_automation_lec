@@ -1,0 +1,4 @@
+cs_nation,cs_id,cs_amount
+북미,csam0001,1500000
+북미,csam0002,90000
+북미,csam0003,750000
