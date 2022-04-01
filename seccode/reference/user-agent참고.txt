@@ -1,0 +1,11 @@
+[Request 로 접속 시 막힐경우]
+   * 단 user-agent는 나중에 막혀서 
+     다시 다른값으로 변경해야하는 경우 발생 가능
+
+# user-agent 추가 설정 (requests)
+headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:86.0) Gecko/20100101 Firefox/86.0',}
+
+data=requests.get( url,headers=headers )
+
+# user-agent option 추가 설정 (selenium)
+options.add_argument("user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko")
